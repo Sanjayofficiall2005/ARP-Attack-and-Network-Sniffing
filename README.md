@@ -28,7 +28,8 @@ Boot kali and Windows7 virtual machines.
 In windows 7 give the command arp -a
 ## OUTPUT:
 
-![{EF3F15FD-71B8-4CAD-89AB-1EE910702541}](https://github.com/user-attachments/assets/34fd95fe-3fc3-4d5b-9b3a-e31c9551af5f)
+![image](https://github.com/user-attachments/assets/433a1bd5-c8b5-40a1-bba6-b8bff22aa5d4)
+
 
 
 From kali linux issue the command :
